@@ -10,6 +10,7 @@ Liceul Tehnologic „Grigore C. Moisil” Buzău
 ## Despre mine
 
 Sunt elev în clasa a XII-a și sunt interesat de tehnologie, design grafic și producție media. Îmi place să descopăr programe noi și să realizez proiecte digitale. După terminarea liceului, îmi doresc să îmi dezvolt în continuare competențele în domeniul tehnologiei și al multimedia.
+https://share.jotbird.com/bright-spectacular-sunset
 
 ## Educație
 
