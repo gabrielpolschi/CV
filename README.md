@@ -63,5 +63,3 @@ Sunt elev în clasa a XII-a și sunt interesat de tehnologie, design grafic și 
 I am a 12th-grade student interested in technology, graphic design and multimedia production. I enjoy learning new digital tools and creating creative projects. My goal is to improve my skills and gain more experience in the digital media field.
 
 ---
-
-*Acest CV prezintă studiile, competențele și proiectele mele educaționale.*
