@@ -1,4 +1,3 @@
-# CV
 # Polschi Gabriel Eugen
 
 **Elev, clasa a XII-a A – Producție media**  
